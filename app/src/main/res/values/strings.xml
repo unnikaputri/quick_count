@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quick Count</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="welcome">HASIL PERHITUNGAN SUARA</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
